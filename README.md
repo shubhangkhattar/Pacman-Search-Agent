@@ -246,7 +246,6 @@ Question q8: 3/3
 ------------------
 Total: 26/25
 
-Your grades are NOT yet registered.  To register your grades, make sure
-to follow your instructor's guidelines to receive credit on your project.
+
 
 
